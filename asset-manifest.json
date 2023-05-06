@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9e7f5add.css",
-    "main.js": "/static/js/main.1f3ddad8.js",
+    "main.js": "/static/js/main.25e257a4.js",
     "static/js/787.b4d20c5e.chunk.js": "/static/js/787.b4d20c5e.chunk.js",
     "static/media/ico-burger-bigcommerce.png": "/static/media/ico-burger-bigcommerce.9d1ccebd97ab494f7ec5.png",
     "static/media/ico-burger-wordpress.png": "/static/media/ico-burger-wordpress.bc06b5cfd38f05c839f8.png",
@@ -348,11 +348,11 @@
     "static/media/ico-single-quote-2.svg": "/static/media/ico-single-quote-2.6aaa3270960b3f59ae63.svg",
     "static/media/ico-check-white-2.svg": "/static/media/ico-check-white-2.3233fec0819ccd73d845.svg",
     "main.9e7f5add.css.map": "/static/css/main.9e7f5add.css.map",
-    "main.1f3ddad8.js.map": "/static/js/main.1f3ddad8.js.map",
+    "main.25e257a4.js.map": "/static/js/main.25e257a4.js.map",
     "787.b4d20c5e.chunk.js.map": "/static/js/787.b4d20c5e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e7f5add.css",
-    "static/js/main.1f3ddad8.js"
+    "static/js/main.25e257a4.js"
   ]
 }
